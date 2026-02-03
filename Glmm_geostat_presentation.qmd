@@ -1,6 +1,6 @@
 ---
 title: "Spatio-Temporal Modelling using Hierarchical integrated Models"
-author: "Maxime Olmos, Baptiste Alglave, Jean Baptiste Lecomte"
+author: "Maxime Olmos, Baptiste Alglave, Jean-Baptiste Lecomte"
 format: thinkridentity-revealjs
 ---
 
